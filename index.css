@@ -1,0 +1,103 @@
+body
+{
+	font-family: serif;
+	color: #000000;
+	margin: 2%;
+	background-image: url("images/Grassy.jpg"); 
+	background-size: cover;
+	width: 1500px;
+	margin-left: auto;
+	margin-right: auto;
+	zoom: 75%;
+} /* This the the body formatting in the CSS.*/
+
+div
+{
+	border: 10px solid black;
+	background-color: black;
+    padding: 50px 30px 50px 80px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 1400px;
+} /* This is where I format the black background that is ontop of the grassy background.*/
+
+ul
+{ 
+	border-style: solid;
+	border-width: 1px;
+	padding: 0.5em;
+	border-radius: 0.5em;
+	background-color: #ffffff;
+	font-size: 30px;
+} /*This is an unordered list, and here I style the list so that it becomes horizontal, and so that there is a border.*/
+
+ul li
+{
+	list-style-type: none;
+	display: inline;
+	margin-right: 0.5em;
+	margin-left: 0.5em;
+} /*This is where I made the links show up with spaces, and a border around them.*/
+
+h1
+{
+	color: #e60000;
+	font-size: 70px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 5em;
+	text-shadow: 0px 3px 0px #0020C2,
+                 0px 14px 10px rgba(0,0,0,0.15),
+                 0px 24px 2px rgba(0,0,0,0.1),
+                 0px 34px 30px rgba(0,0,0,0.1);
+}/*Here I formatted the word Soccer, so that it had colors and text shadows.*/
+
+p
+{
+	text-indent: 50px;
+	color: #ffffff;
+	font-size: 30px;
+	text-align:justify; 
+}/*Here I formatted all the paragraphs*/
+
+#img01.center
+{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 1200px;
+	height: 800px;
+} /*Here I formatted the picture, and I made sure it was centered with, margin-left and margin-right. Also to make sure something centers, I must have the display: block element.*/
+
+#img02
+{
+	display: block;
+	float: right;
+	width: 280px; 
+	height: 380px;
+	padding-left: 50px;
+}
+
+#img03
+{
+	position:absolute;
+    left:0px;
+    top:0px;
+    z-index:-1;
+	width: 100%; 
+	height: 1200px;
+}
+
+#a01
+{
+	color: pink;
+	font-size: 14;
+	text-align: right;
+	float: right;
+}
+
+#a02
+{
+	color: pink;
+	font-size: 14;
+}

@@ -1,0 +1,56 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<link href="References.css" rel="stylesheet" type="text/css">
+		<title>References</title>
+	</head>
+	<body>
+		<ul>
+			<li><a href="index.html">Home</a></li>
+			<li><a href="Famous_Mathematicians.html">Famous Mathematicians</a></li>
+			<li><a href="How_Does_Math_Occur_In_Our_Lives.html">How Does Math Occur In Our Lives</a></li>
+			<li><a href="History_Of_Math.html">History Of Math</a></li>
+			<li><a href="References.html">References</a></li>
+		</ul>
+		<h1>References</h1>
+		<p>
+			These are the references that were used in the making of this website.
+		</p>
+		<hr><!--These are the references that were used in the making of this website.-->
+		<h2>Home</h2>
+		<pre>Math. (n.d.). Retrieved October 20, 2017, from https://www.ted.com/topics/math <a href="https://pi.tedcdn.com/r/pf.tedcdn.com/images/playlists/hated_math_3974269087_1200x627.jpg?c=1050%2C550&w=1050">https://pi.tedcdn.com/r/pf.tedcdn.com/images/playlists/hated_math_3974269087_1200x627.jpg?c=1050%2C550&w=1050</a></pre>
+		<pre>D. (2014, October 13). Retrieved October 20, 2017, from https://www.youtube.com/watch?v=jYggVNQIPxM <a href="https://i.ytimg.com/vi/aPIGVsv6yk8/hqdefault.jpg">https://i.ytimg.com/vi/aPIGVsv6yk8/hqdefault.jpg</a></pre>
+		<h2>Famous Mathematicians</h2>
+		<h3>Leonhard Euler</h3>
+		<pre>Leonhard Euler. (2017, October 19). Retrieved October 20, 2017, from https://en.wikipedia.org/wiki/Leonhard_Euler <a href="https://upload.wikimedia.org/wikipedia/commons/d/d7/Leonhard_Euler.jpg">https://upload.wikimedia.org/wikipedia/commons/d/d7/Leonhard_Euler.jpg</a></pre>
+		<pre>Thompson, A. (2016, December 20). What's the Big Deal With the Mathematical Constant "e"? Retrieved October 20, 2017, from http://www.popularmechanics.com/science/math/a24383/mathematical-constant-e/ <a href="https://qph.ec.quoracdn.net/main-qimg-9083a8773b9fc49aa37fdb7d93ffa06f">https://qph.ec.quoracdn.net/main-qimg-9083a8773b9fc49aa37fdb7d93ffa06f</a></pre>
+		<pre>Coolman, R. (2015, June 30). Euler's Identity: 'The Most Beautiful Equation'. Retrieved October 19, 2017, from https://www.livescience.com/51399-eulers-identity.html <a href="https://img.purch.com/h/1000/aHR0cDovL3d3dy5saXZlc2NpZW5jZS5jb20vaW1hZ2VzL2kvMDAwLzAzNS85Njkvb3JpZ2luYWwvZXVsZXItaWRlbnRpdHkuanBn">https://img.purch.com/h/1000/aHR0cDovL3d3dy5saXZlc2NpZW5jZS5jb20vaW1hZ2VzL2kvMDAwLzAzNS85Njkvb3JpZ2luYWwvZXVsZXItaWRlbnRpdHkuanBn</a></pre>
+		<pre>N. (2016, December 19). Retrieved October 20, 2017, from https://www.youtube.com/watch?v=AuA2EAgAegE <a href="https://www.youtube.com/watch?v=AuA2EAgAegE">https://www.youtube.com/watch?v=AuA2EAgAegE</a></pre>
+		<pre>E (mathematical constant). (2017, October 20). Retrieved October 20, 2017, from https://en.wikipedia.org/wiki/E_(mathematical_constant) <a href="https://en.wikipedia.org/wiki/E_(mathematical_constant)">https://en.wikipedia.org/wiki/E_(mathematical_constant)</a></pre>
+		<h3>Pierre de Fermat</h3>
+		<pre>Pierre de Fermat. (2017, October 17). Retrieved October 20, 2017, from https://en.wikipedia.org/wiki/Pierre_de_Fermat <a href="https://upload.wikimedia.org/wikipedia/commons/f/f3/Pierre_de_Fermat.jpg">https://upload.wikimedia.org/wikipedia/commons/f/f3/Pierre_de_Fermat.jpg</a></pre>
+		<pre>(n.d.). Retrieved October 20, 2017, from https://www.linkedin.com/authwall?trk=ripf&trkInfo=AQGkZYQv1HyH1wAAAV81mXe4QNhFxLNkAkabAmL2H5UWUzpq6_fy3-ZOCnBRKhzRD39aolRlRBbOGnH8LeCd7iC3VE5Yab8jWRBBmqXTicJZVYGBy4DAUsR7T8Q1HRPSyXjjL9U&originalReferer=https%3A%2F%2Fwww.google.ca%2F&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Ffermats-last-theorem-cracked-andrew-wiles-anand-chatterjee <a href="https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAbNAAAAJDg1MTBlZGQ4LTQyMjEtNDgzMy04M2M0LTc4NGJhN2VlZTVlZA.jpg">https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAbNAAAAJDg1MTBlZGQ4LTQyMjEtNDgzMy04M2M0LTc4NGJhN2VlZTVlZA.jpg</a></pre>
+		<pre>Andrew Wiles. (n.d.). Retrieved October 20, 2017, from http://famous-mathematicians.org/andrew-wiles/ <a href="http://famous-mathematicians.org/wp-content/uploads/2013/07/Andrew-Wiles-300x208.jpg">http://famous-mathematicians.org/wp-content/uploads/2013/07/Andrew-Wiles-300x208.jpg</a></pre>
+		<pre>Pierre de Fermat. (2017, October 17). Retrieved October 20, 2017, from https://en.wikipedia.org/wiki/Pierre_de_Fermat <a href="https://en.wikipedia.org/wiki/Pierre_de_Fermat">https://en.wikipedia.org/wiki/Pierre_de_Fermat</a></pre>
+		<pre>N. (2013, September 24). Retrieved October 20, 2017, from https://www.youtube.com/watch?v=qiNcEguuFSA <a href="https://www.youtube.com/watch?v=qiNcEguuFSA">https://www.youtube.com/watch?v=qiNcEguuFSA</a></pre>
+		<h3>Johann Carl Friedrich Gauss</h3>
+		<pre>Carl Friedrich Gauss. (2017, October 18). Retrieved October 20, 2017, from https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss <a href="https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss">https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss</a></pre>
+		<pre>Almukahhal, R., Spence, L., Landers, M., Fiori, N., Fortgang, A., & Vigil, M. (2017, February 15). Series Sums and Gauss' Formula. Retrieved October 20, 2017, from https://www.ck12.org/calculus/series-sums-and-gauss-formula/lesson/Series-Sums-and-Gausss-Formula-MAT-ALY/ <a href="https://dr282zn36sxxg.cloudfront.net/datastreams/f-d%3Aaab28fbf062afa788be578a75d3f20e33f0c796272cb66e4080b5f3e%2BIMAGE%2BIMAGE.1">https://dr282zn36sxxg.cloudfront.net/datastreams/f-d%3Aaab28fbf062afa788be578a75d3f20e33f0c796272cb66e4080b5f3e%2BIMAGE%2BIMAGE.1</a></pre>
+		<pre>Berry, B. (2015, October 16). Common Core Math is Not the Enemy – Math Memoirs – Medium. Retrieved October 20, 2017, from https://medium.com/i-math/common-core-math-is-not-the-enemy-c05b68f46b3e <a href="https://cdn-images-1.medium.com/max/1600/1*roEBBWVLx-OHBkZ0VcSj3g.png">https://cdn-images-1.medium.com/max/1600/1*roEBBWVLx-OHBkZ0VcSj3g.png</a></pre>
+		<pre>(n.d.). Retrieved October 20, 2017, from http://www.storyofmathematics.com/19th_gauss.html <a href="http://www.storyofmathematics.com/images2/gauss_complex.gif">http://www.storyofmathematics.com/images2/gauss_complex.gif</a></pre>
+		<pre>Gray, J. J. (2017, March 22). Carl Friedrich Gauss. Retrieved October 20, 2017, from https://www.britannica.com/biography/Carl-Friedrich-Gauss <a href="https://www.britannica.com/biography/Carl-Friedrich-Gauss">https://www.britannica.com/biography/Carl-Friedrich-Gauss</a></pre>
+		<h3>Alan Turing</h3>
+		<pre>Alan Turing. (2017, October 15). Retrieved October 20, 2017, from https://en.wikipedia.org/wiki/Alan_Turing <a href="https://upload.wikimedia.org/wikipedia/commons/a/a1/Alan_Turing_Aged_16.jpg">https://upload.wikimedia.org/wikipedia/commons/a/a1/Alan_Turing_Aged_16.jpg</a></pre>
+		<pre>N. (2013, January 10). Retrieved October 20, 2017, from https://www.youtube.com/watch?v=G2_Q9FoD-oQ <a href="https://www.youtube.com/watch?v=G2_Q9FoD-oQ">https://www.youtube.com/watch?v=G2_Q9FoD-oQ</a></pre>
+		<h2>How Does Math Occur In Our Lives</h2>
+		<pre>How far is a light-year? (n.d.). Retrieved October 20, 2017, from http://earthsky.org/astronomy-essentials/how-far-is-a-light-year <a href="http://earthsky.org/astronomy-essentials/how-far-is-a-light-year">http://earthsky.org/astronomy-essentials/how-far-is-a-light-year</a></pre>
+		<pre>Best 25 Stock market training ideas on Pinterest | Learn stock market, Stock market for beginners and Buy stocks. (n.d.). Retrieved October 20, 2017, from https://www.pinterest.ca/explore/stock-market-training/ <a href="https://i.pinimg.com/originals/20/e9/95/20e995b3230740e1051c509c12a01f3d.jpg">https://i.pinimg.com/originals/20/e9/95/20e995b3230740e1051c509c12a01f3d.jpg</a></pre>
+		<h2>History Of Math</h2>
+		<pre>Custom Research Papers on Math History. (n.d.). Retrieved October 20, 2017, from https://www.papermasters.com/math-history.html <a href="https://www.papermasters.com/images/math-history.jpg">https://www.papermasters.com/images/math-history.jpg</a></pre>
+		<pre>Blog. (n.d.). Retrieved October 20, 2017, from http://preecek170327ema300assingment2.weebly.com/ <a href="http://preecek170327ema300assingment2.weebly.com/uploads/2/9/0/9/29097369/1353478_orig.png">http://preecek170327ema300assingment2.weebly.com/uploads/2/9/0/9/29097369/1353478_orig.png</a></pre>
+		<pre>Abbott, D. (2013, September 10). Is Mathematics Invented or Discovered? Retrieved October 20, 2017, from https://www.huffingtonpost.com/derek-abbott/is-mathematics-invented-o_b_3895622.html <a href="https://www.huffingtonpost.com/derek-abbott/is-mathematics-invented-o_b_3895622.html">https://www.huffingtonpost.com/derek-abbott/is-mathematics-invented-o_b_3895622.html</a></pre>
+		<pre>A Mathematical Chronology. (n.d.). Retrieved October 20, 2017, from http://www-history.mcs.st-andrews.ac.uk/Chronology/full.html <a href="http://www-history.mcs.st-andrews.ac.uk/Chronology/full.html">http://www-history.mcs.st-andrews.ac.uk/Chronology/full.html</a></pre>
+		<hr>
+	</body>
+</html>
